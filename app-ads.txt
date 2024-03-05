@@ -1,8 +1,6 @@
 google.com, pub-8689213949805403, DIRECT, f08c47fec0942fa0
 facebook.com, 1815284842111002, DIRECT, c3e20eee3f780d68
-
 facebook.com, 734115837986375, DIRECT, c3e20eee3f780d68
-
 applovin.com, 94bed3c739b144ffc7df94a91ceccf2a, DIRECT
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
@@ -11,8 +9,6 @@ pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 xandr.com, 13799, RESELLER
 media.net, 8CUD06Z68, RESELLER
-
-
 applovin.com, 94bed3c739b144ffc7df94a91ceccf2a, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 gamaigroup.com, 423056, RESELLER
@@ -39,7 +35,6 @@ thebrave.io, 1234633, RESELLER, c25b2154543746ac
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
-
 fyber.com, 220376, DIRECT
 applovin.com, 94bed3c739b144ffc7df94a91ceccf2a, DIRECT
 chartboost.com, 5732d6ebf6cd456f047a69cc, DIRECT
@@ -115,7 +110,6 @@ advlion.com, 584, RESELLER
 advlion.com, 3083, RESELLER
 advlion.com, 3054, RESELLER
 advlion.com, 3108, RESELLER
-
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 adelement.com, 30167, RESELLER
